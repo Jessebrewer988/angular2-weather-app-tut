@@ -5,7 +5,6 @@ var assetsProd = 'src/';
 
 var appDev = 'dev/';
 var appProd = 'app/';
-
 /* Mixed */
 var ext_replace = require('gulp-ext-replace');
 

@@ -1,4 +1,5 @@
-# Angular 2 Weather App (Tutorial)
+#Angular 2 Weather App
 
-## Description
-This repository holds the source code of my YouTube Tutorial series on how to build an Angular 2 Weather App.
+Currently this allows you to search for a city and receive the temperature and description of the weather. 
+
+The API is openweathermap.org.

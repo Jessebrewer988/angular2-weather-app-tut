@@ -1,6 +1,7 @@
 {
-  "name": "angular2-boilerplate",
+  "name": "ng2-weather",
   "version": "1.0.0",
+  "author":"Jesse Brewer",
   "scripts": {
     "postinstall": "npm run typings install",
     "lite": "lite-server",
